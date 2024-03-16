@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootElement>
+    <unit>
+        <uName>Acer Aspire 5</uName>
+        <uModel>A515-56-363A</uModel>
+        <uFrequency>2,4</uFrequency>
+        <uOperativeMemory>8</uOperativeMemory>
+        <uPrice>700</uPrice>
+        <uPiecesAmount>10</uPiecesAmount>
+    </unit>
+    <unit>
+        <uName>Apple MacBook Pro</uName>
+        <uModel>M1</uModel>
+        <uFrequency>3,2</uFrequency>
+        <uOperativeMemory>16</uOperativeMemory>
+        <uPrice>1500</uPrice>
+        <uPiecesAmount>8</uPiecesAmount>
+    </unit>
+	<unit>
+        <uName>HP Pavilion Gaming Desktop</uName>
+        <uModel>TG01-1160xt</uModel>
+        <uFrequency>3,6</uFrequency>
+        <uOperativeMemory>12</uOperativeMemory>
+        <uPrice>900</uPrice>
+        <uPiecesAmount>12</uPiecesAmount>
+    </unit>
+	<unit>
+        <uName>Dell XPS 13</uName>
+        <uModel>A515-56-363A</uModel>
+        <uFrequency>4,7</uFrequency>
+        <uOperativeMemory>16</uOperativeMemory>
+        <uPrice>1200</uPrice>
+        <uPiecesAmount>9</uPiecesAmount>
+    </unit>
+	<unit>
+        <uName>Lenovo Legion Tower 5</uName>
+        <uModel>90RB0006US</uModel>
+        <uFrequency>3,8</uFrequency>
+        <uOperativeMemory>32</uOperativeMemory>
+        <uPrice>1500</uPrice>
+        <uPiecesAmount>14</uPiecesAmount>
+    </unit>
+</rootElement>
